@@ -1,5 +1,10 @@
 # Material
 
+国外Material风格的前端框架，由于众所周知的原因，天朝无法正常使用，
+SO，我就把其中的一些资源改成国内的CDN，嗯，大家可以用了
+
+演示DEMO: (http://daemonite.github.io/material/index.html)
+
 HTML5 UI design based on Google Material Design and built on top of Bootstrap.
 
 > a visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science. This is material design.
